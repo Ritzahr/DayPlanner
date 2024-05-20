@@ -1,12 +1,8 @@
 const { Schema, mongoose, model } = require('mongoose')
 const locationsData = require('./Data/Test_data/location');
 const { ObjectId } = require('mongodb');
+const connection = require('./index')
 
-mongoose.connect("mongodb+srv://jsmilezz052:BnkJNB4pGloVf1o4@cluster0.iexwylq.mongodb.net/DayPlanner_DB?retryWrites=true&w=majority&appName=Cluster0").then(()=>{
-    console.log("Connected to DB")
-}).catch((err)=>{
-    console.log("Connection failed", err)
-})
 
 const locationSchema = new Schema({
     id:  {
@@ -44,6 +40,8 @@ const UserSchema = new Schema({
 
 const Location = mongoose.model("Location", locationSchema);
 const User = mongoose.model("User", UserSchema)
+
+
 
 const testDoc = new Location(locationsData[0])
 
