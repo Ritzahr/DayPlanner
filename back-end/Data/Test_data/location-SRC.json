@@ -1,0 +1,2221 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-05-20T09:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 25475389,
+      "lat": 51.5265807,
+      "lon": -0.1292505,
+      "tags": {
+        "amenity": "cafe",
+        "fixme": "not on FHRS",
+        "name": "Woburn Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 250971923,
+      "lat": 51.5273219,
+      "lon": -0.1362722,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date:capacity": "2021-01-22",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 257937397,
+      "lat": 51.5231854,
+      "lon": -0.138689,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "72",
+        "addr:postcode": "W1T 5DU",
+        "addr:street": "Grafton Way",
+        "amenity": "pub",
+        "check_date": "2023-05-26",
+        "fhrs:id": "426441",
+        "indoor_seating": "yes",
+        "name": "The Grafton Arms",
+        "outdoor_seating": "yes",
+        "roof_terrace": "yes",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.graftonarms.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264905062,
+      "lat": 51.5287875,
+      "lon": -0.1322168,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "operator": "Zipcar",
+        "operator:wikidata": "Q1069924",
+        "source": "WebSite"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264905079,
+      "lat": 51.5270996,
+      "lon": -0.1343883,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "operator": "Zipcar",
+        "operator:wikidata": "Q1069924",
+        "source": "WebSite"
+      }
+    },
+    {
+      "type": "node",
+      "id": 264905219,
+      "lat": 51.5281749,
+      "lon": -0.1316427,
+      "tags": {
+        "amenity": "car_sharing",
+        "capacity": "1",
+        "operator": "Zipcar",
+        "operator:wikidata": "Q1069924",
+        "source": "WebSite"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280145696,
+      "lat": 51.5288373,
+      "lon": -0.1262199,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "73-77",
+        "addr:postcode": "NW1 2QS",
+        "addr:street": "Euston Road",
+        "amenity": "pub",
+        "brand": "O'Neill's",
+        "brand:wikidata": "Q7071905",
+        "check_date": "2023-05-09",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "O'Neill's",
+        "opening_hours": "Mo-We 08:00-24:00, Th-Sa 08:00-01:00, Su 09:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 290346364,
+      "lat": 51.5269502,
+      "lon": -0.1373487,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-18",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "colour": "red",
+        "note": "RH aperture blocked, RH collection plate missing",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "NW1 43D",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "source": "survey",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 43D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293754854,
+      "lat": 51.5326991,
+      "lon": -0.1375828,
+      "tags": {
+        "amenity": "recycling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293754855,
+      "lat": 51.5328109,
+      "lon": -0.1373221,
+      "tags": {
+        "amenity": "pub",
+        "name": "Escape Sports Bar & Restaurant",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293801318,
+      "lat": 51.5288401,
+      "lon": -0.1291341,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date:capacity": "2021-06-10",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293801320,
+      "lat": 51.5289226,
+      "lon": -0.1390399,
+      "tags": {
+        "amenity": "recycling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293802529,
+      "lat": 51.5301228,
+      "lon": -0.1387817,
+      "tags": {
+        "amenity": "recycling"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293812290,
+      "lat": 51.5270343,
+      "lon": -0.1407864,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "check_date": "2024-04-05",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "colour": "red",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:design": "type_c",
+        "post_box:type": "pillar",
+        "ref": "NW1 58D",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 58D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293813404,
+      "lat": 51.5285518,
+      "lon": -0.1388564,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-10",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "colour": "red",
+        "note": "LH aperture blocked up",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:design": "type_c",
+        "post_box:type": "pillar",
+        "ref": "NW1 10D",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "source": "survey",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 10D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294161414,
+      "lat": 51.5239773,
+      "lon": -0.140527,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-03",
+        "collection_times": "Mo-Fr 17:30, Sa 10:30",
+        "note": "The info card under the right aperture (first class and abroad) is missing",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:type": "pillar",
+        "ref": "W1T 49;W1T 249",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294594543,
+      "lat": 51.5268253,
+      "lon": -0.1375676,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "check_date:capacity": "2021-01-22",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294594546,
+      "lat": 51.5267297,
+      "lon": -0.1375039,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "2",
+        "check_date:capacity": "2021-01-22",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294599679,
+      "lat": 51.5259074,
+      "lon": -0.1378517,
+      "tags": {
+        "amenity": "pub",
+        "brand": "Young's",
+        "brand:wikidata": "Q8057802",
+        "name": "Square Tavern",
+        "operator": "Young's",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294659404,
+      "lat": 51.527798,
+      "lon": -0.131988,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "NW1 2HS",
+        "addr:street": "Eversholt Street",
+        "addr:unit": "Unit 50",
+        "amenity": "pub",
+        "brand": "Fuller's",
+        "brand:wikidata": "Q5253950",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:authority": "Camden",
+        "fhrs:id": "425427",
+        "fhrs:local_authority_id": "55804",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Doric Arch",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "operator": "Fuller's",
+        "outdoor_seating": "no",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no",
+        "website": "https://www.doric-arch.co.uk/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294745606,
+      "lat": 51.527302,
+      "lon": -0.1374519,
+      "tags": {
+        "amenity": "place_of_worship",
+        "name": "Shahjalal Jame Masjid Euston Mosque",
+        "name:fa": "مسجد جامع شاه‌جلال",
+        "postal_code": "NW1 2LY",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294758605,
+      "lat": 51.5314094,
+      "lon": -0.1335601,
+      "tags": {
+        "amenity": "school",
+        "name": "Children's Centre Services SureStart Euston",
+        "postal_code": "NW1 1SR"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294758609,
+      "lat": 51.5314713,
+      "lon": -0.1334075,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "capacity": "2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294758628,
+      "lat": 51.5328177,
+      "lon": -0.131964,
+      "tags": {
+        "amenity": "school",
+        "fixme": "Looks like this nursery is just a building. Needs survey",
+        "name": "St. Aloysius' School Nursery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 294765140,
+      "lat": 51.5333448,
+      "lon": -0.1342188,
+      "tags": {
+        "amenity": "pub",
+        "name": "Eastnor Castle",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 296889741,
+      "lat": 51.5283514,
+      "lon": -0.1389467,
+      "tags": {
+        "amenity": "pub",
+        "name": "Shaker and Company",
+        "source": "TMJ-Mobile_0.6.2"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347040,
+      "lat": 51.5238596,
+      "lon": -0.1254895,
+      "tags": {
+        "amenity": "recycling",
+        "location": "overground",
+        "recycling:beverage_cartons": "yes",
+        "recycling:cans": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:paper": "yes",
+        "recycling:plastic": "no",
+        "recycling:plastic_bottles": "yes",
+        "recycling:plastic_packaging": "no",
+        "recycling_type": "container"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347043,
+      "lat": 51.5255881,
+      "lon": -0.1286764,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2021-04-22",
+        "collection_times": "Mo-Fr 18:30, Sa 12:00",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:type": "pillar",
+        "ref": "WC1H 18;WC1H 218",
+        "royal_cypher": "GR",
+        "royal_cypher:wikidata": "Q33102273",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347044,
+      "lat": 51.526042,
+      "lon": -0.129082,
+      "tags": {
+        "amenity": "bank",
+        "brand": "NatWest",
+        "brand:wikidata": "Q2740021",
+        "brand:wikipedia": "en:NatWest",
+        "name": "NatWest",
+        "operator": "NatWest",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347048,
+      "lat": 51.5287157,
+      "lon": -0.1256165,
+      "tags": {
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 18:30, Sa 12:00",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:design": "type_c",
+        "post_box:type": "pillar",
+        "ref": "WC1H 19;WC1H 219",
+        "royal_cypher": "EVIIR",
+        "royal_cypher:wikidata": "Q33102324",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347049,
+      "lat": 51.5281822,
+      "lon": -0.1251425,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "114",
+        "addr:postcode": "WC1H 9NT",
+        "addr:street": "Judd Street",
+        "amenity": "pub",
+        "brewery": "various",
+        "check_date": "2023-08-31",
+        "email": "skinnersarms@douglasinns.co.uk",
+        "fhrs:id": "424267",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Skinners Arms",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+442078376521",
+        "smoking": "outside",
+        "source:addr": "FHRS Open Data",
+        "website": "https://skinnersarmslondon.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 298347050,
+      "lat": 51.527567,
+      "lon": -0.1241966,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "116",
+        "addr:postcode": "WC1H 8BS",
+        "addr:street": "Cromer Street",
+        "amenity": "pub",
+        "check_date": "2023-12-07",
+        "fhrs:id": "426351",
+        "indoor_seating": "yes",
+        "name": "The Boot",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "source:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307828475,
+      "lat": 51.529805,
+      "lon": -0.1238255,
+      "tags": {
+        "amenity": "bureau_de_change",
+        "name": "TEB",
+        "payment:lightning": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307828477,
+      "lat": 51.5299734,
+      "lon": -0.1239545,
+      "tags": {
+        "amenity": "bureau_de_change"
+      }
+    },
+    {
+      "type": "node",
+      "id": 307828775,
+      "lat": 51.5310671,
+      "lon": -0.1315355,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-18",
+        "collection_plate": "CP1D",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "colour": "red",
+        "note": "LH aperture blocked up, LH collection plate missing",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:design": "type_c",
+        "post_box:type": "pillar",
+        "ref": "NW1 32D",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "source": "survey",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 32D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314762682,
+      "lat": 51.5226258,
+      "lon": -0.1314901,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "12",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 314762755,
+      "lat": 51.5227173,
+      "lon": -0.1318537,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332117344,
+      "lat": 51.5281039,
+      "lon": -0.125102,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "114",
+        "addr:postcode": "WC1H 9NT",
+        "addr:street": "Judd Street",
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "indoor_seating": "yes",
+        "name": "NONÓS",
+        "outdoor_seating": "yes",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332117592,
+      "lat": 51.5277186,
+      "lon": -0.1262783,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-12-07",
+        "name": "Sandwich Street Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332117631,
+      "lat": 51.5283268,
+      "lon": -0.1275527,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "117",
+        "addr:postcode": "NW1 2SX",
+        "addr:street": "Euston Road",
+        "amenity": "fast_food",
+        "brand": "Pret A Manger",
+        "brand:wikidata": "Q2109109",
+        "brand:wikipedia": "en:Pret a Manger",
+        "check_date": "2023-05-09",
+        "contact:website": "https://locations.pret.co.uk/london/117-euston-road",
+        "cuisine": "sandwich",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "425515",
+        "fhrs:local_authority_id": "57010",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Pret A Manger",
+        "opening_hours": "Mo-Fr 06:30-21:00, Sa 07:00-20:30, Su 07:30-19:30",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "short_name": "Pret",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332117740,
+      "lat": 51.5283992,
+      "lon": -0.1273566,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "93",
+        "addr:postcode": "NW1 2RA",
+        "addr:street": "Euston Road",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "brand": "PizzaExpress",
+        "brand:wikidata": "Q662845",
+        "brand:wikipedia": "en:PizzaExpress",
+        "check_date": "2023-05-09",
+        "cuisine": "pizza",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "424853",
+        "fhrs:local_authority_id": "37092",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Pizza Express",
+        "opening_hours": "Mo,Tu 11:31-23:00, We-Fr 11:30-23:30, Sa,Su 11:30-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "survey",
+        "website": "https://www.pizzaexpress.com/london-euston-road",
+        "wheelchair": "wheelchair-yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332118048,
+      "lat": 51.5286655,
+      "lon": -0.1267001,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "83-87",
+        "addr:postcode": "NW1 2RA",
+        "addr:street": "Euston Road",
+        "alt_name": "The Euston Flyer",
+        "amenity": "pub",
+        "brand": "Fuller's",
+        "brand:wikidata": "Q5253950",
+        "check_date": "2023-05-09",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "424499",
+        "fhrs:local_authority_id": "24702",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Euston Flyer",
+        "opening_hours": "Mo 10:00-23:00; Tu-Th 10:00-23:30; Fr 10:00-24:00; Sa 08:00-00:00; Su 09:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "real_ale": "4 from Fullers + 1",
+        "smoking": "outside",
+        "website": "https://www.eustonflyer.co.uk/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 332118767,
+      "lat": 51.5288526,
+      "lon": -0.1281323,
+      "tags": {
+        "addr:housenumber": "100-110",
+        "addr:street": "Euston Road",
+        "amenity": "theatre",
+        "name": "Shaw Theatre",
+        "postal_code": "NW1 2AJ",
+        "website": "https://www.shaw-theatre.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q7491204",
+        "wikipedia": "en:Shaw Theatre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 362501621,
+      "lat": 51.5263992,
+      "lon": -0.1407333,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Fenice"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388111142,
+      "lat": 51.5237711,
+      "lon": -0.1265088,
+      "tags": {
+        "amenity": "parking",
+        "brand:wikidata": "Q6971273",
+        "brand:wikipedia": "en:National Car Parks",
+        "name": "Woburn Place Car Park",
+        "operator": "National Car Parks",
+        "operator:type": "private",
+        "operator:wikidata": "Q6971273"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388111144,
+      "lat": 51.5239589,
+      "lon": -0.1268564,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388111145,
+      "lat": 51.5240282,
+      "lon": -0.1270586,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "K6",
+        "covered": "booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388111146,
+      "lat": 51.5252013,
+      "lon": -0.1281271,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "7-12",
+        "addr:postcode": "WC1H 9LT",
+        "addr:street": "Tavistock Square",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "425694",
+        "name": "Starbucks",
+        "not:addr:postcode": "WC1H 9LY",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa 07:00-20:00",
+        "source:postcode": "other businesses at this address",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "access through ramp to offices next door"
+      }
+    },
+    {
+      "type": "node",
+      "id": 485354220,
+      "lat": 51.5258601,
+      "lon": -0.1307868,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:type": "pillar",
+        "ref": "WC1H 217D;WC1H 17D",
+        "royal_cypher": "EVIIR",
+        "royal_cypher:wikidata": "Q33102324",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 501766461,
+      "lat": 51.529834,
+      "lon": -0.140808,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "check_date": "2024-04-05",
+        "collection_times": "Mo-Fr 09:00; Sa 07:00",
+        "colour": "red",
+        "note": "the left aperture blocked up",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:design": "type_c",
+        "post_box:type": "pillar",
+        "ref": "NW1 22D",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 22D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 552175894,
+      "lat": 51.5276064,
+      "lon": -0.1337622,
+      "tags": {
+        "amenity": "atm",
+        "brand": "NatWest",
+        "brand:wikidata": "Q2740021",
+        "cash_in": "no",
+        "check_date": "2023-05-22",
+        "count": "3",
+        "indoor": "no",
+        "operator": "NatWest",
+        "operator:wikidata": "Q2740021"
+      }
+    },
+    {
+      "type": "node",
+      "id": 552235874,
+      "lat": 51.527096,
+      "lon": -0.1307961,
+      "tags": {
+        "addr:housenumber": "161",
+        "addr:street": "Euston Road",
+        "amenity": "restaurant",
+        "brand": "Prezzo",
+        "brand:wikidata": "Q7242489",
+        "brand:wikipedia": "en:Prezzo (restaurant)",
+        "check_date:diet:vegetarian": "2022-02-15",
+        "cuisine": "italian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Prezzo",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 554974745,
+      "lat": 51.52996,
+      "lon": -0.1244199,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "brand:wikipedia": "en:Costa Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Costa",
+        "opening_hours": "Mo-Fr 06:00-21:00, Sa,Su 07:00-20:00",
+        "payment:lightning": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 554975954,
+      "lat": 51.5297419,
+      "lon": -0.1240565,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "29-31",
+        "addr:postcode": "NW1 2SD",
+        "addr:street": "Euston Road",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "check_date": "2024-02-23",
+        "contact:website": "https://locations.burgerking.co.uk/london/27-29-euston-road",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "fhrs:id": "423957",
+        "name": "Burger King",
+        "name:ja": "バーガーキング",
+        "payment:lightning": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 554976927,
+      "lat": 51.5297234,
+      "lon": -0.1241036,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "31",
+        "addr:postcode": "NW1 2ST",
+        "addr:street": "Euston Road",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "HSBC UK",
+        "brand:wikidata": "Q64767453",
+        "contact:website": "https://www.hsbc.co.uk/branch-list/kings-cross/",
+        "name": "HSBC UK",
+        "opening_hours": "Mo-Fr 9:30-16:30",
+        "phone": "+44 3457 404 404"
+      }
+    },
+    {
+      "type": "node",
+      "id": 571462872,
+      "lat": 51.5277108,
+      "lon": -0.1345656,
+      "tags": {
+        "amenity": "police",
+        "check_date": "2024-04-22",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "source": "Network Rail"
+      }
+    },
+    {
+      "type": "node",
+      "id": 602726321,
+      "lat": 51.5297776,
+      "lon": -0.1239267,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 641387566,
+      "lat": 51.525108,
+      "lon": -0.1325842,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "60",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 644625847,
+      "lat": 51.5252191,
+      "lon": -0.1327573,
+      "tags": {
+        "addr:city": "London",
+        "addr:floor": "Upper Ground",
+        "addr:housenumber": "15",
+        "addr:postcode": "WC1H 0AY",
+        "addr:street": "Gordon Street",
+        "amenity": "cafe",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Bloomsbury Café",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "operator": "Students' Union UCL",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://studentsunionucl.org/eat-drink-shop/cafes/bloomsbury-cafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 647004373,
+      "lat": 51.5322247,
+      "lon": -0.1264865,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-11-23",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/2828/st-pancras-international-stati-st-pancras-international-station-london-eng-nw-1-2",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 647051380,
+      "lat": 51.5321844,
+      "lon": -0.1269431,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Prime Burger",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 647052117,
+      "lat": 51.5319049,
+      "lon": -0.1263153,
+      "tags": {
+        "amenity": "cafe",
+        "building:levels": "0",
+        "check_date": "2023-11-10",
+        "diet:vegetarian": "yes",
+        "email": "stpancras@benugo.com",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Benugo",
+        "opening_hours": "07:00-21:00",
+        "organic": "only",
+        "outdoor_seating": "no",
+        "website": "https://www.benugo.com/sites/cafes/benugo-st-pancras/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 669891136,
+      "lat": 51.5294047,
+      "lon": -0.1296186,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "44",
+        "addr:postcode": "NW1 1JB",
+        "addr:street": "Chalton Street",
+        "amenity": "cafe",
+        "fhrs:id": "426152",
+        "name": "Pinner Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 680063657,
+      "lat": 51.5227679,
+      "lon": -0.1316659,
+      "tags": {
+        "amenity": "recycling",
+        "location": "overground",
+        "opening_hours": "00:00-00:00",
+        "recycling:PET": "yes",
+        "recycling:aluminium": "yes",
+        "recycling:cans": "yes",
+        "recycling:cardboard": "yes",
+        "recycling:clothes": "yes",
+        "recycling:glass_bottles": "yes",
+        "recycling:paper": "yes",
+        "recycling:plastic": "yes",
+        "recycling:plastic_bottles": "yes",
+        "recycling:plastic_packaging": "yes",
+        "recycling:shoes": "yes",
+        "recycling_type": "container",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 681199392,
+      "lat": 51.5283177,
+      "lon": -0.1334151,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Euston Station",
+        "addr:postcode": "NW1 2DU",
+        "addr:street": "Eversholt Street",
+        "addr:unit": "21-22",
+        "amenity": "fast_food",
+        "brand": "Burger King",
+        "brand:wikidata": "Q177054",
+        "brand:wikipedia": "en:Burger King",
+        "check_date": "2023-08-06",
+        "contact:website": "https://locations.burgerking.co.uk/london/barrier-line-euston-station",
+        "cuisine": "burger",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "423930",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "Burger King",
+        "outdoor_seating": "no",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 681199723,
+      "lat": 51.5282791,
+      "lon": -0.1335089,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Euston Station",
+        "addr:postcode": "NW1 2DU",
+        "addr:street": "Eversholt Street",
+        "addr:unit": "23",
+        "amenity": "fast_food",
+        "brand": "Upper Crust",
+        "brand:wikidata": "Q7898585",
+        "brand:wikipedia": "en:Upper Crust (restaurant chain)",
+        "check_date": "2023-08-06",
+        "cuisine": "sandwich",
+        "diet:vegetarian": "yes",
+        "fhrs:id": "424182",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "Upper Crust",
+        "outdoor_seating": "no",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 681200105,
+      "lat": 51.5282488,
+      "lon": -0.1336117,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Euston Station",
+        "addr:postcode": "NW1 2HS",
+        "addr:street": "Eversholt Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "Panopolis",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source:addr": "FHRS Open Data",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 696546907,
+      "lat": 51.5235258,
+      "lon": -0.1368716,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "154/155",
+        "addr:postcode": "W1T 7NQ",
+        "addr:street": "Tottenham Court Road",
+        "amenity": "bank",
+        "brand": "Barclays",
+        "brand:wikidata": "Q245343",
+        "brand:wikipedia": "en:Barclays",
+        "name": "Barclays",
+        "old_name": "Kamps;Brot Kultur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 696746887,
+      "lat": 51.5223949,
+      "lon": -0.1322463,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "82",
+        "addr:postcode": "WC1E 6EG",
+        "addr:street": "Gower Street",
+        "amenity": "cafe",
+        "check_date": "2024-05-08",
+        "fhrs:id": "947352",
+        "indoor_seating": "yes",
+        "name": "Dillons",
+        "outdoor_seating": "yes",
+        "source:addr": "FHRS Open Data",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toilet located on basement level (Waterstones)."
+      }
+    },
+    {
+      "type": "node",
+      "id": 698447397,
+      "lat": 51.5228705,
+      "lon": -0.132082,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-03-29",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Engineering Cafe",
+        "opening_hours": "\"Term Time: Mon-Fri 08:00-18:00 Out of Term: 08:30-16:00\"",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 698447434,
+      "lat": 51.5236335,
+      "lon": -0.1300027,
+      "tags": {
+        "amenity": "shelter"
+      }
+    },
+    {
+      "type": "node",
+      "id": 720079727,
+      "lat": 51.528067,
+      "lon": -0.1329289,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-18",
+        "collection_times": "Mo-Fr 17:15; Sa 10:30",
+        "colour": "red",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:type": "indoor_pillar",
+        "ref": "NW1 9",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 9"
+      }
+    },
+    {
+      "type": "node",
+      "id": 720890821,
+      "lat": 51.5241198,
+      "lon": -0.1333457,
+      "tags": {
+        "addr:city": "London",
+        "addr:place": "South Quad, UCL",
+        "addr:postcode": "WC1E 6BT",
+        "addr:street": "Gower Street",
+        "amenity": "cafe",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Print Room Café",
+        "opening_hours": "Mo-Fr 08:00-20:00",
+        "operator": "Students' Union UCL",
+        "toilets:wheelchair": "no",
+        "website": "https://studentsunionucl.org/eat-drink-shop/cafes/print-room-cafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 731026337,
+      "lat": 51.5238697,
+      "lon": -0.1375547,
+      "tags": {
+        "amenity": "atm",
+        "brand": "NatWest",
+        "brand:wikidata": "Q2740021",
+        "cash_in": "no",
+        "check_date": "2024-03-04",
+        "fee": "no",
+        "opening_hours": "24/7",
+        "operator": "NatWest",
+        "operator:wikidata": "Q2740021",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 821930971,
+      "lat": 51.52422,
+      "lon": -0.127635,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "33-35",
+        "addr:postcode": "WC1H 0JR",
+        "addr:street": "Woburn Place",
+        "amenity": "cafe",
+        "fhrs:id": "425030",
+        "name": "Cafe Toscana",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 821931112,
+      "lat": 51.525771,
+      "lon": -0.129362,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "KX100",
+        "check_date": "2023-07-28",
+        "covered": "booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 821931469,
+      "lat": 51.5265711,
+      "lon": -0.1296511,
+      "tags": {
+        "amenity": "restaurant",
+        "contact:website": "http://numbertwelverestaurant.co.uk",
+        "cuisine": "italian",
+        "indoor_seating": "yes",
+        "name": "Number Twelve",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 833772427,
+      "lat": 51.5288971,
+      "lon": -0.124761,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "47",
+        "addr:postcode": "WC1H 9DW",
+        "addr:street": "Tonbridge Street",
+        "amenity": "pub",
+        "brewery": "various",
+        "fhrs:id": "426340",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "The Dolphin",
+        "outdoor_seating": "yes",
+        "phone": "+442079163191",
+        "smoking": "outside",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.thedolphin-pub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 835517643,
+      "lat": 51.5234559,
+      "lon": -0.1268753,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "49",
+        "addr:postcode": "WC1H 0JZ",
+        "addr:street": "Woburn Place",
+        "alt_name": "Enterprise Rent-a-car",
+        "amenity": "car_rental",
+        "branch": "Russell Square",
+        "brand": "Enterprise",
+        "brand:wikidata": "Q17085454",
+        "brand:wikipedia": "en:Enterprise Rent-A-Car",
+        "name": "Enterprise",
+        "official_name": "Enterprise Rent-A-Car",
+        "operator": "Enterprise Rent-a-Car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841130,
+      "lat": 51.5329169,
+      "lon": -0.1367687,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "15",
+        "historic:ref": "CH10110",
+        "local": "Camden Town",
+        "name": "Eversholt Street",
+        "network": "tfl_cycle_hire",
+        "official_name": "Eversholt Street, Camden Town",
+        "official_ref": "131",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841160,
+      "lat": 51.5254864,
+      "lon": -0.1382132,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "54",
+        "historic:ref": "CH10027",
+        "local": "Euston",
+        "name": "Hampstead Road",
+        "network": "tfl_cycle_hire",
+        "official_name": "Hampstead Road, Euston",
+        "official_ref": "98",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841191,
+      "lat": 51.5237598,
+      "lon": -0.1284617,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authority": "Camden",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "23",
+        "historic:ref": "CH10079",
+        "local": "Bloomsbury",
+        "name": "Bedford Way",
+        "network": "tfl_cycle_hire",
+        "official_name": "Bedford Way, Bloomsbury",
+        "official_ref": "287",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841197,
+      "lat": 51.5273095,
+      "lon": -0.1360758,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "28",
+        "historic:ref": "CH10074",
+        "local": "Euston",
+        "name": "Drummond Street",
+        "network": "tfl_cycle_hire",
+        "official_name": "Drummond Street, Euston",
+        "official_ref": "20",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841216,
+      "lat": 51.528806,
+      "lon": -0.132219,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "31",
+        "historic:ref": "CH10108",
+        "local": "Somers Town",
+        "name": "Doric Way",
+        "network": "tfl_cycle_hire",
+        "official_name": "Doric Way, Somers Town",
+        "official_ref": "25",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 851841220,
+      "lat": 51.5262719,
+      "lon": -0.1342365,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "16",
+        "historic:ref": "CH10029",
+        "local": "Euston",
+        "name": "Euston Road",
+        "network": "tfl_cycle_hire",
+        "official_name": "Euston Road, Euston",
+        "official_ref": "69",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 852019120,
+      "lat": 51.5267528,
+      "lon": -0.1305487,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authority": "Camden",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "32",
+        "historic:ref": "CH10075",
+        "local": "Euston",
+        "name": "Endsleigh Gardens",
+        "network": "tfl_cycle_hire",
+        "official_name": "Endsleigh Gardens, Euston",
+        "official_ref": "214",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 852019136,
+      "lat": 51.5310893,
+      "lon": -0.1350114,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "brand:wikipedia": "en:Royal Mail",
+        "check_date": "2024-03-18",
+        "collection_times": "Mo-Fr 18:00; Sa 12:00",
+        "colour": "red",
+        "note": "no ref's on the collection plates",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "2",
+        "post_box:type": "pillar",
+        "ref": "NW1 100;NW1 3",
+        "royal_cypher": "EIIR",
+        "royal_cypher:wikidata": "Q33102113",
+        "source": "survey",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 x Barnby st"
+      }
+    },
+    {
+      "type": "node",
+      "id": 852019177,
+      "lat": 51.5287698,
+      "lon": -0.1324414,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 857595900,
+      "lat": 51.5243994,
+      "lon": -0.1381545,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "26",
+        "historic:ref": "CH10124",
+        "local": "Euston",
+        "name": "Warren Street Station",
+        "network": "tfl_cycle_hire",
+        "official_name": "Warren Street Station, Euston",
+        "official_ref": "239",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 857595902,
+      "lat": 51.5250642,
+      "lon": -0.1311424,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "30",
+        "historic:ref": "CH10080",
+        "local": "Bloomsbury",
+        "name": "Taviton Street",
+        "network": "tfl_cycle_hire",
+        "official_name": "Taviton Street, Bloomsbury",
+        "official_ref": "19",
+        "operator": "Serco",
+        "operator:wikidata": "Q499104"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743596,
+      "lat": 51.5263533,
+      "lon": -0.1259884,
+      "tags": {
+        "amenity": "bicycle_rental",
+        "authority": "Camden",
+        "bicycle_rental": "docking_station",
+        "brand": "Santander Cycles",
+        "brand:wikidata": "Q807961",
+        "capacity": "22",
+        "historic:ref": "CH10006",
+        "local": "Bloomsbury",
+        "name": "Cartwright Gardens",
+        "network": "tfl_cycle_hire",
+        "official_name": "Cartwright Gardens, Bloomsbury",
+        "official_ref": "16",
+        "operator": "Serco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743628,
+      "lat": 51.5258018,
+      "lon": -0.1355632,
+      "tags": {
+        "amenity": "waste_basket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743647,
+      "lat": 51.5251596,
+      "lon": -0.139466,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Euston Tower",
+        "addr:housenumber": "286",
+        "addr:postcode": "NW1 3DP",
+        "addr:street": "Euston Road",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "fhrs:id": "424765",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "not:addr:postcode": "NW1 3BY",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "source:addr:postcode": "code-point_open",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/2790/euston-tower-unit-1-a-euston-tower-podium-regents-place-london-"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743682,
+      "lat": 51.5263084,
+      "lon": -0.125536,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "4",
+        "addr:postcode": "WC1H 9EW",
+        "addr:street": "Leigh Street",
+        "amenity": "restaurant",
+        "check_date": "2024-05-09",
+        "cuisine": "indian",
+        "fhrs:id": "424294",
+        "indoor_seating": "yes",
+        "name": "DEPA Tandoori",
+        "outdoor_seating": "no",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743732,
+      "lat": 51.5254017,
+      "lon": -0.1378843,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "14",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743737,
+      "lat": 51.5263951,
+      "lon": -0.1252983,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "7-8",
+        "addr:postcode": "WC1H 9EW",
+        "addr:street": "Leigh Street",
+        "amenity": "restaurant",
+        "check_date": "2024-05-09",
+        "cuisine": "fish",
+        "fhrs:id": "424295",
+        "indoor_seating": "yes",
+        "name": "North Sea Fish",
+        "outdoor_seating": "no",
+        "phone": "+44 20 7387 5892",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "no",
+        "wheelchair:description": "There are stairs leading to the entrance of the building making it inaccessible."
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743756,
+      "lat": 51.5251651,
+      "lon": -0.1268895,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "K6",
+        "check_date": "2023-07-28",
+        "covered": "booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743792,
+      "lat": 51.5263332,
+      "lon": -0.1254691,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "bubble_tea",
+        "indoor_seating": "yes",
+        "name": "Munchies",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743800,
+      "lat": 51.5250954,
+      "lon": -0.1394252,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Euston Tower",
+        "addr:housenumber": "286",
+        "addr:postcode": "NW1 3DP",
+        "addr:street": "Euston Road",
+        "addr:unit": "1",
+        "amenity": "fast_food",
+        "brand": "Pret A Manger",
+        "brand:wikidata": "Q2109109",
+        "brand:wikipedia": "en:Pret a Manger",
+        "cuisine": "sandwich",
+        "fhrs:id": "424773",
+        "indoor_seating": "yes",
+        "name": "Pret A Manger",
+        "not:addr:postcode": "NW1 3BY",
+        "outdoor_seating": "yes",
+        "short_name": "Pret",
+        "source:addr:postcode": "code-point_open",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 956355173,
+      "lat": 51.5310965,
+      "lon": -0.1350574,
+      "tags": {
+        "amenity": "post_box",
+        "brand": "Royal Mail",
+        "brand:wikidata": "Q638098",
+        "check_date": "2024-03-18",
+        "collection_times": "Mo-Fr 18:00; Sa 12:00",
+        "colour": "red",
+        "mailtypes": "franked",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "post_box:apertures": "1",
+        "post_box:type": "meter",
+        "ref": "NW1 83P",
+        "royal_cypher": "no",
+        "source": "survey",
+        "wikimedia_commons": "Category:United Kingdom post box NW1 83P"
+      }
+    },
+    {
+      "type": "node",
+      "id": 956368009,
+      "lat": 51.5314487,
+      "lon": -0.1336462,
+      "tags": {
+        "amenity": "kindergarten",
+        "name": "Sure Start Euston"
+      }
+    },
+    {
+      "type": "node",
+      "id": 974064426,
+      "lat": 51.5296019,
+      "lon": -0.1306907,
+      "tags": {
+        "amenity": "place_of_worship",
+        "check_date": "2023-08-30",
+        "name": "Somers Town Islamic Cultural and Education Centre",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1012646722,
+      "lat": 51.52643,
+      "lon": -0.1392978,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "146-162",
+        "addr:postcode": "NW1 3HP",
+        "addr:street": "Drummond Street",
+        "amenity": "clinic",
+        "entrance": "yes",
+        "fixme": "Is this really 7 days a week?",
+        "healthcare": "centre",
+        "name": "South Camden Centre for Health",
+        "opening_hours": "08:00-18:30",
+        "source": "survey;Bing 2012",
+        "source:addr:postcode": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043301728,
+      "lat": 51.525692,
+      "lon": -0.1333174,
+      "tags": {
+        "addr:city": "London",
+        "addr:floor": "Ground",
+        "addr:housenumber": "25",
+        "addr:postcode": "WC1H 0AY",
+        "addr:street": "Gordon Street",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Gordon's Café",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Students' Union UCL",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://studentsunionucl.org/eat-drink-shop/cafes/gordons-cafe",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043329141,
+      "lat": 51.5248729,
+      "lon": -0.1331937,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "The Refectory",
+        "phone": "+44 20 8543 1945",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043339634,
+      "lat": 51.5255858,
+      "lon": -0.1333796,
+      "tags": {
+        "amenity": "atm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043340227,
+      "lat": 51.5255755,
+      "lon": -0.1332027,
+      "tags": {
+        "addr:city": "London",
+        "addr:floor": "Ground",
+        "addr:housenumber": "25",
+        "addr:postcode": "WC1H 0AY",
+        "addr:street": "Gordon Street",
+        "amenity": "fast_food",
+        "cuisine": "pizza;fast_food",
+        "level": "0",
+        "name": "Stone Willy's Pizza",
+        "opening_hours": "Mo-Fr 11:00-15:00",
+        "operator": "Students' Union UCL",
+        "takeaway": "yes",
+        "website": "https://studentsunionucl.org/eat-drink-shop/cafes/stone-willys-pizza",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1043523748,
+      "lat": 51.5247424,
+      "lon": -0.134556,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "22",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1116225010,
+      "lat": 51.5230905,
+      "lon": -0.1361937,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "30",
+        "covered": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1116251530,
+      "lat": 51.5303041,
+      "lon": -0.1247771,
+      "tags": {
+        "air_conditioning": "yes",
+        "alt_name": "The Betjeman Arms",
+        "amenity": "pub",
+        "brand": "Young's",
+        "brand:wikidata": "Q8057802",
+        "brand:wikipedia": "en:Young's",
+        "brewery": "yes",
+        "building:levels": "1",
+        "check_date": "2023-11-23",
+        "delivery": "no",
+        "diet:gluten_free": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Betjeman Arms",
+        "opening_hours": "Mo-Sa 10:00-23:00;Su 10:00-22:30",
+        "opening_hours:kitchen": "Mo-Sa 10:00-22:00;Su 10:00-21:30",
+        "operator": "Youngs",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "real_ale": "Adnams Bitter, House beer brewed by Sharp's, +1 varies",
+        "smoking": "outside",
+        "source": "survey",
+        "takeaway": "no",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "website": "https://www.thebetjemanarms.co.uk/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1116296880,
+      "lat": 51.5219585,
+      "lon": -0.1309206,
+      "tags": {
+        "amenity": "recycling",
+        "location": "overground",
+        "recycling_type": "container"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1159628149,
+      "lat": 51.5266008,
+      "lon": -0.1247591,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "15",
+        "addr:postcode": "WC1H 9EW",
+        "addr:street": "Leigh Street",
+        "amenity": "restaurant",
+        "check_date": "2024-05-09",
+        "cuisine": "sichuan",
+        "fhrs:id": "425699",
+        "indoor_seating": "yes",
+        "name": "Chilli Cool",
+        "outdoor_seating": "no",
+        "phone": "+44 20 7383 3135",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1198124690,
+      "lat": 51.5274054,
+      "lon": -0.1269465,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "amenity": "motorcycle_parking",
+        "capacity": "16",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222209473,
+      "lat": 51.5329639,
+      "lon": -0.1369647,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "KXPlus",
+        "covered": "booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222209511,
+      "lat": 51.5320121,
+      "lon": -0.1307984,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "150",
+        "addr:postcode": "NW1 1EE",
+        "addr:street": "Ossulston Street",
+        "amenity": "kindergarten",
+        "name": "Somers Town Community Nursery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222209513,
+      "lat": 51.5313624,
+      "lon": -0.1273261,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222209516,
+      "lat": 51.5280364,
+      "lon": -0.1276757,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "6",
+        "covered": "no",
+        "cyclestreets_id": "29408"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222209540,
+      "lat": 51.5273844,
+      "lon": -0.1272057,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "covered": "no",
+        "cyclestreets_id": "29407"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222247526,
+      "lat": 51.5288372,
+      "lon": -0.1325871,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "KXPlus",
+        "check_date": "2023-08-30",
+        "covered": "booth"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222247534,
+      "lat": 51.528808,
+      "lon": -0.1324672,
+      "tags": {
+        "amenity": "bench"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222247542,
+      "lat": 51.5270825,
+      "lon": -0.1342227,
+      "tags": {
+        "amenity": "telephone",
+        "booth": "KX100",
+        "covered": "booth",
+        "operator": "BT",
+        "operator:wikidata": "Q593786"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222247584,
+      "lat": 51.5324733,
+      "lon": -0.1364288,
+      "tags": {
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "stands",
+        "capacity": "4",
+        "check_date:capacity": "2023-09-19",
+        "covered": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1222247605,
+      "lat": 51.5281837,
+      "lon": -0.132197,
+      "tags": {
+        "access": "yes",
+        "amenity": "bicycle_parking",
+        "bicycle_parking": "shed",
+        "capacity": "40",
+        "fee": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1230827961,
+      "lat": 51.5232269,
+      "lon": -0.1379952,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "112",
+        "addr:postcode": "W1T 5EE",
+        "addr:street": "Whitfield Street",
+        "amenity": "bar",
+        "fhrs:id": "1316490",
+        "indoor_seating": "yes",
+        "name": "Broski",
+        "outdoor_seating": "yes",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1251663447,
+      "lat": 51.5239574,
+      "lon": -0.128354,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bloomsbury Lanes",
+        "sport": "10pin",
+        "url": "http://www.bloomsburybowling.com/",
+        "wheelchair": "yes"
+      }
+    },
+   
+}
