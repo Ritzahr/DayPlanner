@@ -80,7 +80,7 @@ export default function MapScreen() {
         style={styles.map}
         customMapStyle={mapStyle}
         // provider="google"
-        googleMapsApiKey="AIzaSyA_yYlqJPS6gu50NJB3lD7ntyQtwqQ8xUg"
+        googleMapsApiKey=""
         ref={mapRef}
         initialRegion={initialRegion}
       >
@@ -110,7 +110,7 @@ export default function MapScreen() {
     <MapViewDirections 
       origin={directions[0]}
       destination={directions[1]}
-      apikey='AIzaSyCpXQ_Jqv8Pv9yQiKvahvD_tMvwOA4TKaw'
+      apikey=''
       strokeWidth={4}
       strokeColor='#111111'/>
     <Marker coordinate={directions[0]}/>
