@@ -1,4 +1,4 @@
-[
+const locationsData = [
   {
     "type": "node",
     "id": 25475389,
@@ -170,3 +170,5 @@
     }
   }
 ]
+
+module.exports = locationsData;
