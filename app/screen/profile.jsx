@@ -12,18 +12,6 @@ export default function Profile() {
   return (
     <ScrollView>
       <View style={styles.container}>
-        <Text
-          style={{
-            color: "dimgray",
-            fontSize: 40,
-            fontWeight: "bold",
-            marginBottom: 10,
-            marginTop: 10,
-          }}
-        >
-          Profile
-        </Text>
-
         <View>
           <Image
             style={{
@@ -72,6 +60,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginTop: 20,
+    paddingTop: 20,
   },
   button: {
     backgroundColor: "dimgray",

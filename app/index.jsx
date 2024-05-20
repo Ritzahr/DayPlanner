@@ -6,6 +6,7 @@ import { Ionicons } from "@expo/vector-icons";
 import MapScreen from "./screen/home";
 import RoutePlanner from "./screen/RoutePlanner";
 import Profile from "./screen/profile";
+import Firebase from '../components/FirebaseAuth'
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -18,6 +19,15 @@ export default function Index() {
         tabBarInactiveTintColor: "lightgray",
       })}
     >
+      <Tab.Screen
+        name="Log In"
+        component={Firebase}
+        options={{
+          tabBarIcon: ({ color, size }) => (
+            <Ionicons name="map" color={color} size={size} />
+          ),
+        }}
+      />
       <Tab.Screen
         name="Home"
         component={MapScreen}

@@ -11,6 +11,7 @@ import {
 } from "react-native";
 import { Marker, Polyline } from "../../components/mapComponents";
 import MapView from "../../components/map";
+import MapViewDirections from 'react-native-maps-directions';
 import * as Location from "expo-location";
 import mapStyle from "./mapStyle";
 import { MARKERS_DATA } from "../data";
@@ -78,7 +79,7 @@ export default function MapScreen() {
       <MapView
         style={styles.map}
         customMapStyle={mapStyle}
-        provider="google"
+        // provider="google"
         googleMapsApiKey="AIzaSyA_yYlqJPS6gu50NJB3lD7ntyQtwqQ8xUg"
         ref={mapRef}
         initialRegion={initialRegion}
@@ -106,6 +107,14 @@ export default function MapScreen() {
           //   setSelectedLocation={setSelectedLocation}
           // ></CustomMarker>
         ))}
+    <MapViewDirections 
+      origin={directions[0]}
+      destination={directions[1]}
+      apikey='AIzaSyCpXQ_Jqv8Pv9yQiKvahvD_tMvwOA4TKaw'
+      strokeWidth={4}
+      strokeColor='#111111'/>
+    <Marker coordinate={directions[0]}/>
+    <Marker coordinate={directions[1]}/>
       </MapView>
       <FlatList
         data={MARKERS_DATA}
