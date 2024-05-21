@@ -30,7 +30,10 @@ const UserSchema = new Schema({
     },
     settings: {
         searchRadius: Number,
-        location: String,
+        location: {
+            'lon': Number,
+            'lat' : Number
+        },
     }
 })
 

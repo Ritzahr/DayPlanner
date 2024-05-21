@@ -7,14 +7,15 @@ exports.customError = (err, req, res, next) => {
 }
 
 exports.badRequest = (err, req, res, next) => {
-    if(err.name === 'CastError'){
+    if(err.name === 'CastError' || err.name === 'ValidationError'){
         res.status(400).send({msg : 'bad request'})
     }
     next(err)
 }
 
 exports.newInternalError = (err, req, res, next) => {
-    console.log(err.name)
+
+    console.log(err)
     res.status(500).send({msg : 'Internal server error'})
 }
 

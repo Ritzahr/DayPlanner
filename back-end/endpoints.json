@@ -1,0 +1,17 @@
+{
+    "GET /api/sights/:sight_id": {
+        "description": "serves an object with a sights information",
+        "queries": [],
+        "exampleResponse": {
+          "sight": {
+            "id": 25475389,
+            "lat": 51.5265807,
+            "lon": -0.1292505,
+            "tags": {
+              "amenity": "cafe",
+              "name": "Woburn Cafe"
+        }
+        }
+      }
+}
+}
