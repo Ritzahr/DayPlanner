@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const connection = require("./index");
 const app = express();
 const {
@@ -15,6 +16,7 @@ const {
 } = require("./error_handling");
 const { default: mongoose } = require("mongoose");
 
+app.use(cors());
 app.use(express.json());
 app.use((req, res, next) => {
   return connection().finally(() => {
